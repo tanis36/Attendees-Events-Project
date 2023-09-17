@@ -1,0 +1,13 @@
+Jeff Smith|Blood Drive
+Cookie Monster|Cookie Sale
+Michael Jackson|Dance Off
+Count Dracula|Blood Drive
+Santa Claus|Cookie Sale
+Joe Swanson|Dance Off
+Jeff Smith|Karaoke Night
+Cookie Monster|Bake Off
+Michael Jackson|Karaoke Night
+Count Dracula|Pumpkin Carving
+Santa Claus|Milk Drinking Contest
+Joe Swanson|Kickball Game
+Cookie Monster|Equation Solving

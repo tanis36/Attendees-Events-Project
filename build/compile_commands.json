@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/build",
+  "command": "C:/cygwin64/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/project5.dir/main.cpp.obj -c \"C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/main.cpp\"",
+  "file": "C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/main.cpp"
+},
+{
+  "directory": "C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/build",
+  "command": "C:/cygwin64/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/project5.dir/event.cpp.obj -c \"C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/event.cpp\"",
+  "file": "C:/Users/tanis/OneDrive/Documents/Programming 2/Project 5/event.cpp"
+}
+]
