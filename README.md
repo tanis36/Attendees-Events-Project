@@ -1,4 +1,4 @@
-# Attendees-And-Events
+# Attendees And Events Project
 
 This project contains two text files, one of which has content in the form of "attendee|event", and the other "event|organization".
 
